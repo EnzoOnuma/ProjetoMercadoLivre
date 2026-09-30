@@ -211,7 +211,7 @@ footer { /* Rodapé da página */
     }
 }
 
-@media (max-width: 480px) { /* Executado em telas menores que 480px */
+@media (max-width: 420px) { /* Executado em telas menores que 480px */
     .card {
         width: 100%; /* Cada card ocupa a largura total da tela */
     }
