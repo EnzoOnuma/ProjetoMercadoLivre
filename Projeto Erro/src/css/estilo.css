@@ -189,6 +189,12 @@ footer { /* Rodapé da página */
         gap: 10px; /* Espaçamento entre os elementos */
     }
 
+    #banner img { /* Imagem do banner principal */
+    width: 100%;    /* Largura total */
+    height: 300px; /* Altura fixa */
+    object-fit: cover; /* Cobre o espaço sem distorcer */
+    }
+
     #busca {
         width: 100%; /* Ocupa toda a largura */
         margin: 0; /* Remove margens */
